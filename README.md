@@ -47,3 +47,6 @@ __init__.py: GUI App (streamlit)
 
 job_recommender.py: Backend to match resume with job offer
 
+jd_structured_data2: list of job offer from https://statso.io/jobs-dataset/
+skills2.csv: list of skills from the jobs offer
+
