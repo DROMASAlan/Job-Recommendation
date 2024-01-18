@@ -90,7 +90,6 @@ def main():
     uploaded_file = st.file_uploader("Choose a file", type=['pdf'])
 
     if uploaded_file is not None:
-        st.write(uploaded_file)
         # Process resume and recommend jobs
         file_path=uploaded_file.name
 
