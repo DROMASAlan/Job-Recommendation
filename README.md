@@ -36,3 +36,14 @@ There might be some resume in some field that aren't in the job list database so
 
 ![Percentage Precision](https://raw.githubusercontent.com/DROMASAlan/Job-Recommendation/main/Capture%20d'%C3%A9cran%202024-01-18%20153041.png)
 
+
+check_cv_percentage.py: check % of matching resume with job offer
+
+Skill_extraction.py: get the skills from the resume
+
+extract list skills.py: get list of skills from list of jobs
+
+__init__.py: GUI App (streamlit)
+
+job_recommender.py: Backend to match resume with job offer
+
