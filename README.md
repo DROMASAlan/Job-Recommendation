@@ -11,4 +11,4 @@ Upload a pdf file of your resume and it will provide the most relevant jobs
 
 
 
-![Percentage Precision](Capture d'écran 2024-01-18 153041.png)
+![Percentage Precision](https://raw.githubusercontent.com/DROMASAlan/Job-Recommendation/main/Capture%20d'%C3%A9cran%202024-01-18%20153041.png)
